@@ -134,7 +134,7 @@ body {
 .dice {
   position: absolute;
   left: 50%;
-  top: 35%;
+  top: 20%;
   transform: translateX(-50%);
   height: 100px;
   box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
