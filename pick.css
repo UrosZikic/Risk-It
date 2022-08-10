@@ -132,11 +132,12 @@ body {
 }
 
 .dice {
- width: 100px;
-  height: 100px;
   position: absolute;
-  left: 808px;
-  top: 150px;
+  left: 50%;
+  top: 10.5rem;
+  transform: translateX(-50%);
+  height: 100px;
+  box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
 }
 .btn {
   position: absolute;
